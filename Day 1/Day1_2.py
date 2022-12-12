@@ -1,6 +1,6 @@
 ## Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?
 
-text_file = open("Day 1\Day1_1_Input.txt", "r")
+text_file = open("Day 1\Day1_Input.txt", "r")
 lines = text_file.readlines()
 text_file.close()
 
